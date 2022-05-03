@@ -1,0 +1,25 @@
+{
+  "name": "geolite2-country",
+  "version": "1.0.2",
+  "description": "GeoLite2-Country.mmdb.gz CDN files based on Free Open Source CDN [jsDelivr!](https://www.jsdelivr.com/)",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wp-statistics/GeoLite2-Country.git"
+  },
+  "keywords": [
+    "geoip",
+    "maxmind",
+    "country",
+    "ip",
+    "location"
+  ],
+  "author": "VeronaLabs",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/wp-statistics/GeoLite2-Country/issues"
+  },
+  "homepage": "https://github.com/wp-statistics/GeoLite2-Country#readme"
+}

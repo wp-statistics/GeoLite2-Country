@@ -1,9 +1,16 @@
-# GeoLite2-Country
+# GeoLite2-Country (MaxMind.com) CDN files
 
-This repository provides an alternatively download when GeoLite2-Country.mmdb.gz impossible for download from maxind.com
+GeoLite2-Country.mmdb.gz CDN files based on Free Open Source CDN [jsDelivr!](https://www.jsdelivr.com/) 
 
-**Download link**
-
+## Download link
 ```
-https://raw.githubusercontent.com/wp-statistics/GeoLite2-Country/master/GeoLite2-Country.mmdb.gz
+https://cdn.jsdelivr.net/npm/geolite2-country@1.0.0/GeoLite2-Country.mmdb.gz
 ```
+
+## Source
+```
+https://cdn.jsdelivr.net/npm/geolite2-country/
+```
+
+## License
+[CC Attribution-ShareAlike 4.0](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data?lang=en)
