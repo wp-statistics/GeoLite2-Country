@@ -4,7 +4,7 @@ GeoLite2-Country.mmdb.gz CDN files based on Free Open Source CDN [jsDelivr!](htt
 
 ## Download link
 ```
-https://cdn.jsdelivr.net/npm/geolite2-country@1.0.0/GeoLite2-Country.mmdb.gz
+https://cdn.jsdelivr.net/npm/geolite2-country@1.0.2/GeoLite2-Country.mmdb.gz
 ```
 
 ## Source
