@@ -1,6 +1,6 @@
 {
   "name": "geolite2-country",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "GeoLite2-Country.mmdb.gz CDN files based on Free Open Source CDN [jsDelivr!](https://www.jsdelivr.com/)",
   "scripts": {
     "test": ""
