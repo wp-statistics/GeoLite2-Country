@@ -2,7 +2,7 @@
 
 GeoLite2-Country.mmdb.gz CDN files based on Free Open Source CDN [jsDelivr!](https://www.jsdelivr.com/) 
 
-#### Last updated: 2023-01-06
+#### Last updated: 2023-02-28
 
 ## Download link
 ```
